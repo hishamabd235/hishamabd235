@@ -1,4 +1,4 @@
-# Hi, I'm Hisham Shariq Abdullah 👋
+# Hi, I'm Hisham 👋
 
 🚀 AI & Software Developer  
 🎓 B.E. Electronics & Computer Science — Rizvi College of Engineering (University of Mumbai)  

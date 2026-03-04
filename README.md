@@ -50,6 +50,6 @@ Presented at the **National-Level AI Project & Startup Competition 2026**.
 ## 📬 Contact
 
 - 📧 Email: hishamshariqabdullah@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/hisham-shariq-abdullah)
+- 💼 [LinkedIn](https://linkedin.com/in/hisham-shariq-abdullah)
 
 ✨ Feel free to explore my repositories and reach out if you'd like to collaborate on AI, machine learning, or innovative tech projects!

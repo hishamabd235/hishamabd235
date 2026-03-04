@@ -1,49 +1,42 @@
-# Hello, I'm Hisham Shariq Abdullah 👋
+# Hello, I'm Hisham 👋
+
+Welcome to my GitHub! I'm an Electronics & Computer Science student and an Applied AI & Data Science student interested in building AI-powered applications and intelligent systems.
 
 ---
 
 ## 💡 About Me
 
-- 🎓 B.E. Electronics & Computer Science — Rizvi College of Engineering (University of Mumbai)  
+- 🎓 B.E. Electronics & Computer Science — Rizvi College of Engineering  
 - 🎓 B.S. Applied Artificial Intelligence & Data Science — IIT Jodhpur  
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision  
-- 🧠 Interested in hackathons, competitive programming, and applied AI research  
-- 🔧 Exploring embedded systems, IoT, and robotics applications  
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision  
+- 🧠 Enjoy hackathons, competitive programming, and applied AI research  
+- ⚙️ Exploring embedded systems, IoT, and robotics
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Tools & Technologies
 
 ### 💻 Programming & Development
 
-- 🐍 Python  
-- 💻 C, C#  
-- 🌐 JavaScript, TypeScript  
-- 🗄️ SQL  
+- Python, C, C#, JavaScript, TypeScript, SQL
 
-### 📚 Frameworks & Libraries
+### 📦 Frameworks & Libraries
 
-- ⚡ FastAPI  
-- ⚛️ React  
-- 🔼 Next.js  
-- 🎨 Tailwind CSS  
-- 🧮 NumPy, Pandas  
-- 🤖 Scikit-learn, TensorFlow  
-- 🎥 MediaPipe, OpenCV  
+- FastAPI, React, Next.js, Tailwind CSS  
+- NumPy, Pandas, Scikit-learn, TensorFlow  
+- MediaPipe, OpenCV
 
-### 🧰 Tools & Platforms
+### 🔧 Tools
 
-- 🔧 Git, GitHub  
-- 💻 VS Code  
-- 📓 Jupyter Notebook  
+- Git, GitHub, VS Code, Jupyter Notebook
 
 ### 🧠 Core Concepts
 
-- 🤖 Machine Learning  
-- 👁️ Computer Vision  
-- 🧍 Pose Estimation  
-- 🔗 REST APIs  
-- 🌐 Full-Stack Development  
+- Machine Learning  
+- Computer Vision  
+- Pose Estimation  
+- REST APIs  
+- Full-Stack Development
 
 ---
 
@@ -51,32 +44,20 @@
 
 ### FitNEX AI – Intelligent Fitness Assistant
 
-Tech Stack: **Python, FastAPI, Next.js, TypeScript**
+Tech: Python, FastAPI, Next.js, TypeScript
 
-- 🏋️ Built an AI-powered fitness platform with real-time pose detection using **MediaPipe and OpenCV**  
-- 🔢 Automatic exercise **rep counting and form feedback**  
-- 🧠 AI-generated **personalized workout and nutrition plans**  
-- 📊 Workout analytics dashboard with **progress tracking and personal best records**  
-- 🌗 Responsive full-stack architecture with **dark/light mode and smooth UI animations**
+- Built an AI fitness platform with real-time pose detection using MediaPipe and OpenCV  
+- Automatic rep counting and exercise form feedback  
+- AI-generated workout and nutrition plans  
+- Progress tracking dashboard and analytics
 
-🏆 Presented at the **National-Level AI Project & Startup Competition 2026**
-
----
-
-## 🏆 Certifications
-
-- 📜 Claude Code in Action — Anthropic  
-- 🤖 Unlox Edge Certification in Artificial Intelligence (DPIIT · Skill India · NSDC)  
-- 📊 Business Analytics with Excel — Microsoft × Simplilearn  
-- 💼 TCS iON Career Edge – Young Professional  
+Presented at the **National-Level AI Project & Startup Competition 2026**.
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
 - 📧 Email: hishamshariqabdullah@gmail.com  
-- 💼 LinkedIn: [https://linkedin.com   ](https://www.linkedin.com/in/hisham-shariq-abdullah/)
-
----
+- 💼 [LinkedIn][(https://linkedin.com/hisham-shariq-abdullah)
 
 ✨ Feel free to explore my repositories and reach out if you'd like to collaborate on AI, machine learning, or innovative tech projects!

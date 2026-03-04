@@ -67,7 +67,6 @@ Tech Stack: **Python, FastAPI, Next.js, TypeScript**
 ## 🌐 Connect With Me
 
 LinkedIn: [https://linkedin.com ](https://www.linkedin.com/in/hisham-shariq-abdullah/) 
-GitHub: https://github.com/hishamabd235  
 Email: hishamshariqabdullah@gmail.com
 
 ---

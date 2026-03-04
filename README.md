@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I'm an Electronics & Computer Science student and an Applied AI & Data Science student interested in building AI-powered applications and intelligent systems.
 
----
-
 ## 💡 About Me
 
 - 🎓 B.E. Electronics & Computer Science — Rizvi College of Engineering  
@@ -11,8 +9,6 @@ Welcome to my GitHub! I'm an Electronics & Computer Science student and an Appli
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision  
 - 🧠 Enjoy hackathons, competitive programming, and applied AI research  
 - ⚙️ Exploring embedded systems, IoT, and robotics
-
----
 
 ## 🛠 Tools & Technologies
 
@@ -38,8 +34,6 @@ Welcome to my GitHub! I'm an Electronics & Computer Science student and an Appli
 - REST APIs  
 - Full-Stack Development
 
----
-
 ## 🚀 Projects
 
 ### FitNEX AI – Intelligent Fitness Assistant
@@ -52,8 +46,6 @@ Tech: Python, FastAPI, Next.js, TypeScript
 - Progress tracking dashboard and analytics
 
 Presented at the **National-Level AI Project & Startup Competition 2026**.
-
----
 
 ## 📬 Contact
 
